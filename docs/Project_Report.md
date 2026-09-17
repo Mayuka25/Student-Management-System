@@ -358,6 +358,7 @@ The following operations were tested through the web interface:
 - Cancel editing
 - Invalid form input validation
 - Backend unavailable error handling
+- Responsive testing on desktop and mobile screen sizes
 
 All tested frontend operations worked as expected.
 
